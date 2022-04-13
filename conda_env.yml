@@ -89,6 +89,7 @@ dependencies:
     - qtconsole==5.2.2
     - qtpy==2.0.1
     - requests==2.26.0
+    - scipy==1.8.0
     - send2trash==1.8.0
     - six==1.16.0
     - sniffio==1.2.0
